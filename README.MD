@@ -156,7 +156,23 @@ Through this project, the following concepts are demonstrated:
 * Streamlit Application Development
 
 ---
+## 📸 Project Screenshots
 
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 🎯 Movie Recommendations
+
+![Recommendations](screenshots/recommendations.png)
+
+---
+
+### 📊 Analytics Dashboard
+
+![Analytics](screenshots/analytics.png)
 ## Author
 
 **Vanshika Kaushik**

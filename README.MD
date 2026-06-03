@@ -166,13 +166,20 @@ Through this project, the following concepts are demonstrated:
 
 ### 🎯 Movie Recommendations
 
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/recommendation.png)
 
 ---
 
 ### 📊 Analytics Dashboard
 
 ![Analytics](screenshots/analytics.png)
+
+---
+
+### 📜 Recommendation History
+
+![History](screenshots/history.png)
+---
 ## Author
 
 **Vanshika Kaushik**
